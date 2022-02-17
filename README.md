@@ -25,10 +25,27 @@ The following are the outcomes of this deliverable-
 
 1.	A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955
 2.	The Retirement Titles table is exported as retirement_titles.csv
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_eligibility.png)
+
+
+
+
 3.	A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
 4.	The Unique Titles table is exported as unique_titles.csv
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_Titles.png)
+
+
+
+
+
+
 5.	A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.
 6.	The Retiring Titles table is exported as retiring_titles.csv
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles.png)
+
+
+
+
 
 
 ### 2: The Employees Eligible for the Mentorship Program
@@ -39,6 +56,11 @@ The following are the outcomes of this deliverable-
 
 1.	A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 2.	The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Mentorship_Eligibility.png)
+
+
+
+
 
 # 2.	Results
 
