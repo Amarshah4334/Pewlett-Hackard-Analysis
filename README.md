@@ -27,7 +27,7 @@ The following are the outcomes of this deliverable-
 2.	The Retirement Titles table is exported as retirement_titles.csv
 
 
-![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_eligibility.png)
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retirement_Titles.png)
 
 
 
@@ -80,15 +80,7 @@ The following are the outcomes of this deliverable-
 o	Huge percentage of the employees will retire soon or be eligible for retirement soon.
 o	Following is the job titles and their numbers of eligible retirees.
 
-count	title
-
-29414	Senior Engineer
-28254	Senior Staff
-14222	Engineer
-12243	Staff
-4502	Technique Leader
-1761	Assistant Engineer
-2	Manager
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles.png)
 
 o	The retirment_titles table shows employees who can be categorized as retirement employee and how long they have worked at each position over the course of their career.
 o	The unique_titles table shows the most recent title for employees of retirement age.
