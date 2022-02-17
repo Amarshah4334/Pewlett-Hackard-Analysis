@@ -18,6 +18,13 @@ Once completed I will summarize my results by preparing an analysis report to he
 •	Data Tools: PostgreSQL, pgAdmin, Microsoft Paint, Microsoft word, and Visual Studio Code, Python, Git Hub and Git Lab
 
 
+# 2.	Results
+
+
+In this section i will demonstrate the 1st and 2nd deliverable and then show the analysis as 4 major outlook points:
+
+
+
 ## 1: The Number of Retiring Employees by Title
 ### Requirements:
 
@@ -75,11 +82,11 @@ The following are the outcomes of this deliverable-
 
 
 
-# 2.	Results
 
-	4 Major points from the two analysis deliverables. 
+### 4 Major points from the two analysis deliverables. 
 
 o	Huge percentage of the employees will retire soon or be eligible for retirement soon.
+
 o	Following is the job titles and their numbers of eligible retirees.
 
 ![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles.png)
@@ -88,6 +95,8 @@ o	Following is the job titles and their numbers of eligible retirees.
 o	The retirment_titles table shows employees who can be categorized as retirement employee and how long they have worked at each position over the course of their career.
 
 o	The unique_titles table shows the most recent title for employees of retirement age.
+
+
 
 # 3.	 Summary
 
