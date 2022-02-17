@@ -12,7 +12,9 @@ Once completed I will summarize my results by preparing an analysis report to he
 ## Resources used:
 
 •	Data Source: departments.csv, dept_manager.csv, dept_emp.csv, employees.csv, salaries.csv, titles.csv
+
 •	Data and Code: Employee_Database_challenge.sql
+
 •	Data Tools: PostgreSQL, pgAdmin, Microsoft Paint, Microsoft word, and Visual Studio Code, Python, Git Hub and Git Lab
 
 
