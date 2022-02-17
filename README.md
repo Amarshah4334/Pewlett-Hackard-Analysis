@@ -82,15 +82,18 @@ o	Following is the job titles and their numbers of eligible retirees.
 
 ![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_titles.png)
 
+
 o	The retirment_titles table shows employees who can be categorized as retirement employee and how long they have worked at each position over the course of their career.
+
 o	The unique_titles table shows the most recent title for employees of retirement age.
 
 # 3.	 Summary
 
-•	Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
+•	This Analysis provides high-level responses to the following questions, in relation to the upcoming "silver tsunami.":
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-41381 will be retiring soon and will need filling.
+
+	41381 will be retiring soon and will need filling.
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-No, There are only1549 employees who are eligible to participate in a mentorship program.
+	No, There are only1549 employees who are eligible to participate in a mentorship program.
