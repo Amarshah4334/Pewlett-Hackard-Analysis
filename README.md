@@ -100,6 +100,11 @@ o	The unique_titles table shows the most recent title for employees of retiremen
 
 # 3.	 Summary
 
+•	I have utilised my SQL skills for this analysis to show the following corelations in the available data
+
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/EmployeeDB.png)
+
+
 •	This Analysis provides high-level responses to the following questions, in relation to the upcoming "silver tsunami.":
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
