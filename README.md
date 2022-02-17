@@ -43,7 +43,7 @@ The following are the outcomes of this deliverable-
 
 # 2.	Results
 
-	4 Major points from the two analysis deliverables. 
+	Four Major points from the two analysis deliverables. 
 
 o	Huge percentage of the employees will retire soon or be eligible for retirement soon.
 o	Following is the job titles and their numbers of eligible retirees.
