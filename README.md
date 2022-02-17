@@ -1,8 +1,4 @@
 # Pewlett-Hackard-Analysis
-<<<<<<< HEAD
-
-=======
->>>>>>> eef56fe1e872d96e06c8003582204c62b3503dea
 Analysis for Pewlett-Hackard to plan for a retirement tsunami at the company comprised of employees who were born between 1952 and 1955 and understand when and how they need to fill up the vacant positions.
 
 # 1.	Overview: 
@@ -46,11 +42,7 @@ The following are the outcomes of this deliverable-
 
 # 2.	Results
 
-<<<<<<< HEAD
-	Four Major points from the two analysis deliverables. 
-=======
 	4 Major points from the two analysis deliverables. 
->>>>>>> eef56fe1e872d96e06c8003582204c62b3503dea
 
 o	Huge percentage of the employees will retire soon or be eligible for retirement soon.
 o	Following is the job titles and their numbers of eligible retirees.
@@ -63,11 +55,7 @@ count	title
 12243	Staff
 4502	Technique Leader
 1761	Assistant Engineer
-<<<<<<< HEAD
-2	    Manager
-=======
 2	Manager
->>>>>>> eef56fe1e872d96e06c8003582204c62b3503dea
 
 o	The retirment_titles table shows employees who can be categorized as retirement employee and how long they have worked at each position over the course of their career.
 o	The unique_titles table shows the most recent title for employees of retirement age.
@@ -81,7 +69,3 @@ o	The unique_titles table shows the most recent title for employees of retiremen
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 No, There are only1549 employees who are eligible to participate in a mentorship program.
-<<<<<<< HEAD
-=======
-
->>>>>>> eef56fe1e872d96e06c8003582204c62b3503dea
