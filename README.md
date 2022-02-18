@@ -113,3 +113,19 @@ o	The unique_titles table shows the most recent title for employees of retiremen
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 	No, There are only1549 employees who are eligible to participate in a mentorship program.
+	
+	
+There are 2 additional queries that i am adding to help Bobby's Manager as to where the efforts can be targetted in relation to employees who will be retiring.
+
+1. In this query we can see the unique titles with their departments who will face employee labor force reduction
+
+
+
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Unique_titles_dept.png)
+
+
+2. In this query we can see the list of departments who will have the maximum and minimum impact of the "silver Tsunami"
+
+
+
+![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_departments.png)
