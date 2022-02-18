@@ -58,3 +58,18 @@ ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31') AND (de.to_date = '9999-01-01') 
 ORDER BY emp_no ;
 
+-- retirement count per department
+SELECT DISTINCT ON (ut.emp_no) ut.*, d.dept_name
+INTO unique_titles_depts
+FROM unique_titles AS ut
+	INNER JOIN dept_emp AS de
+		ON ut.emp_no = de.emp_no
+	INNER JOIN departments AS d
+		ON de.dept_no = d.dept_no;
+		
+-- Retiring titles count per department
+SELECT COUNT(dept_name), dept_name
+INTO retiring_dept
+FROM unique_titles_depts
+GROUP BY dept_name
+ORDER BY count DESC;		
