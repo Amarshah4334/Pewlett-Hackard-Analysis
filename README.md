@@ -129,3 +129,6 @@ There are 2 additional queries that i am adding to help Bobby's Manager as to wh
 
 
 ![image](https://github.com/Amarshah4334/Pewlett-Hackard-Analysis/blob/main/Queries/Retiring_departments.png)
+
+
+These additional analysis can help Bobby's Manager understand where to allocate the resources for the hiring process that the company will face in very near future
